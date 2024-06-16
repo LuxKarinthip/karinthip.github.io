@@ -1,2 +1,7 @@
 # karinthip.github.io
-karinthip.github.io/portfolio
+# Data analyst/ Data Scientist
+
+# Work Experience
+-
+-
+-
