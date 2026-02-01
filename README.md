@@ -50,11 +50,11 @@ Example of Map geospatial analysis.
 Toyota Mobility Foundation (TMF) cooperate with MS&AD (Aioi's group company in Japan) and partner companies lauch safety raod accident project in Thailand.
 <https://global.toyota/en/newsroom/corporate/39544702.html>
 
-- 📊 **Methodology & Assumptions**  
-  👉 [View PDF](docs/ExplainMethodAnalysis.pdf)
+📄 **Methodology & Analysis Explanation (PDF)**  
+[View PDF](https://github.com/LuxKarinthip/RoadAccident_GeospatialAanlysis/blob/main/ExplainMethodAnalysis.pdf)
 
-<img width="1243" height="767" alt="image" src="https://github.com/user-attachments/assets/0178a252-9393-4466-9923-73111d374c13" />
-<img width="1319" height="747" alt="image" src="https://github.com/user-attachments/assets/43df299a-1ffc-436d-8c86-742819758b84" />
+<img width="1243" height="600" alt="image" src="https://github.com/user-attachments/assets/0178a252-9393-4466-9923-73111d374c13" />
+<img width="1243" height="600" alt="image" src="https://github.com/user-attachments/assets/43df299a-1ffc-436d-8c86-742819758b84" />
 
 
 
