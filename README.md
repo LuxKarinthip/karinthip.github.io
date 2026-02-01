@@ -1,9 +1,9 @@
-# Project 1 #Road Accident Risk Analytics for Motor Insurance
+# Project 1 : Road Accident Risk Analytics for Motor Insurance & Risk Reduction
 
-## Business Context
-Motor insurance claims show persistently high loss ratios in certain locations, 
-but traditional reporting lacks spatial and root-cause insights to guide 
-underwriting and risk prevention decisions.
+## Executive Summary
+- Identified high-risk accident zones with spatial clustering to inform underwriting decisions
+- Mapped accident severity trends by location and time of day
+- Produced actionable insights to support geo-risk pricing strategy and loss mitigation
 
 ## Business Questions
 - Where are the true accident risk hotspots?
@@ -27,19 +27,20 @@ underwriting and risk prevention decisions.
 - U-turn areas without traffic signals show 1.6x higher claim severity
 - Night-time accidents have lower frequency but significantly higher severity
 
-## Business Implications
-- Enable geo-based risk zoning for underwriting
-- Support selective pricing and deductible policies
-- Provide evidence-based recommendations for loss prevention
-
 ## Tools
-Python, Pandas, GeoPandas, Folium, Google Maps API
+Python, Pandas, GeoPandas, Folium, Google Maps API / ArcGIS
 
 Team size : 5 person - Data Scientist x 1 / Claim x 2 / Project Cooperation x 2
 Karinthip Sribunrueang | Insurance & Data Analytics
 
 ## Area for geospatial analysis
-10 province in Thailand, Started from Chacheonsao, Ubonratchatani, Korat etc.
+Pilot analysis for 10 provinces in Thailand, Started from Chacheonsao, Ubonratchatani, Korat etc.
+
+## Business Implications
+- Underwriting: define geo-risk zones
+- Pricing strategy: adjust for severity trends
+- Loss prevention: enable targeted interventions
+- Product roadmap: support data-driven decisions for motor portfolio
 
 
 ## Example of this project (Road accident-geospatial analysis)
@@ -49,6 +50,9 @@ Toyota Mobility Foundation (TMF) cooperate with MS&AD (Aioi's group company in J
 <https://global.toyota/en/newsroom/corporate/39544702.html>
 
 - [Accident Location Map – Korat](https://luxkarinthip.github.io/RoadAccident_GeospatialAanlysis/ClaimAccidentLocation_Korat.html)
+
+  Heatmap: Color intensity = Claim Frequency
+
 - [Claim Heatmap – Korat](https://luxkarinthip.github.io/RoadAccident_GeospatialAanlysis/ClaimHeatmap_Korat.html)
 
 
