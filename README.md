@@ -43,6 +43,7 @@ Karinthip Sribunrueang | Insurance & Data Analytics
 10 province in Thailand, Started from Chacheonsao, Ubonratchatani, Korat etc.
 
 Example of Map geospatial analysis.
-https://karinthip.github.io/ClaimAccidentLocation_Korat.htm
-https://karinthip.github.io/ClaimHeatmap_Korat.html
+
+https://luxkarinthip.github.io/RoadAccident_GeospatialAanlysis/ClaimAccidentLocation_Korat.htm
+https://luxkarinthip.github.io/RoadAccident_GeospatialAanlysis/ClaimHeatmap_Korat.html
 
