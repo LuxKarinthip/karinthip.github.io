@@ -44,6 +44,6 @@ Karinthip Sribunrueang | Insurance & Data Analytics
 
 Example of Map geospatial analysis.
 
-https://luxkarinthip.github.io/RoadAccident_GeospatialAanlysis/ClaimAccidentLocation_Korat.htm
-https://luxkarinthip.github.io/RoadAccident_GeospatialAanlysis/ClaimHeatmap_Korat.html
+- [Accident Location Map – Korat](https://luxkarinthip.github.io/RoadAccident_GeospatialAanlysis/ClaimAccidentLocation_Korat.html)
+- [Claim Heatmap – Korat](https://luxkarinthip.github.io/RoadAccident_GeospatialAanlysis/ClaimHeatmap_Korat.html)
 
