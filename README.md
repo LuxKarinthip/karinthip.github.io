@@ -41,18 +41,21 @@ Karinthip Sribunrueang | Insurance & Data Analytics
 ## Area for geospatial analysis
 10 province in Thailand, Started from Chacheonsao, Ubonratchatani, Korat etc.
 
-Example of Map geospatial analysis.
 
-- [Accident Location Map – Korat](https://luxkarinthip.github.io/RoadAccident_GeospatialAanlysis/ClaimAccidentLocation_Korat.html)
-- [Claim Heatmap – Korat](https://luxkarinthip.github.io/RoadAccident_GeospatialAanlysis/ClaimHeatmap_Korat.html)
+## Example of this project (Road accident-geospatial analysis)
 
 ## Project source
 Toyota Mobility Foundation (TMF) cooperate with MS&AD (Aioi's group company in Japan) and partner companies lauch safety raod accident project in Thailand.
 <https://global.toyota/en/newsroom/corporate/39544702.html>
 
+- [Accident Location Map – Korat](https://luxkarinthip.github.io/RoadAccident_GeospatialAanlysis/ClaimAccidentLocation_Korat.html)
+- [Claim Heatmap – Korat](https://luxkarinthip.github.io/RoadAccident_GeospatialAanlysis/ClaimHeatmap_Korat.html)
+
+
 📄 **Methodology & Analysis Explanation (PDF)**  
 [View PDF](https://github.com/LuxKarinthip/RoadAccident_GeospatialAanlysis/blob/main/ExplainMethodAnalysis.pdf)
 
+#Sample picture
 <img width="1243" height="600" alt="image" src="https://github.com/user-attachments/assets/0178a252-9393-4466-9923-73111d374c13" />
 <img width="1243" height="600" alt="image" src="https://github.com/user-attachments/assets/43df299a-1ffc-436d-8c86-742819758b84" />
 
