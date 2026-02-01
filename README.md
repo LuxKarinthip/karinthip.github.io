@@ -1,5 +1,3 @@
-Data analyst/ Data Scientist (Portfolio)
-
 # Project 1 #Road Accident Risk Analytics for Motor Insurance
 
 ## Business Context
@@ -16,7 +14,6 @@ underwriting and risk prevention decisions.
 - Motor insurance claim data (2023–2025)
 - Accident location (GPS)
 - Vehicle type, time, claim severity
-
 
 ## Analytical Approach
 1. Claim frequency and severity analysis
