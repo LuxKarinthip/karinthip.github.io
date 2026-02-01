@@ -1,4 +1,4 @@
-# Project 1 : Road Accident Risk Analytics for Motor Insurance & Risk Reduction
+## Project 1 : Road Accident Risk Analytics for Motor Insurance & Risk Reduction
 
 ## Executive Summary
 - Identified high-risk accident zones with spatial clustering to inform underwriting decisions
@@ -9,11 +9,6 @@
 - Where are the true accident risk hotspots?
 - What structural or behavioral factors drive claim severity?
 - How can insurers reduce loss through targeted interventions?
-
-## Data Overview
-- Motor insurance claim data (2023–2025)
-- Accident location (GPS)
-- Vehicle type, time, claim severity
 
 ## Analytical Approach
 1. Claim frequency and severity analysis
@@ -30,11 +25,11 @@
 ## Tools
 Python, Pandas, GeoPandas, Folium, Google Maps API / ArcGIS
 
-Team size : 5 person - Data Scientist x 1 / Claim x 2 / Project Cooperation x 2
+Team size : 5 person : Data Scientist x 1 / Claim x 2 / Project Cooperation x 2
 Karinthip Sribunrueang | Insurance & Data Analytics
 
 ## Area for geospatial analysis
-Pilot analysis for 10 provinces in Thailand, Started from Chacheonsao, Ubonratchatani, Korat etc.
+Pilot project for 10 provinces in Thailand, Started from Chacheonsao, Ubonratchatani, Korat etc.
 
 ## Business Implications
 - Underwriting: define geo-risk zones
@@ -50,18 +45,18 @@ Toyota Mobility Foundation (TMF) cooperate with MS&AD (Aioi's group company in J
 <https://global.toyota/en/newsroom/corporate/39544702.html>
 
 - [Accident Location Map – Korat](https://luxkarinthip.github.io/RoadAccident_GeospatialAanlysis/ClaimAccidentLocation_Korat.html)
-
-  Heatmap: Color intensity = Claim Frequency
-
 - [Claim Heatmap – Korat](https://luxkarinthip.github.io/RoadAccident_GeospatialAanlysis/ClaimHeatmap_Korat.html)
-
+Heatmap: Color intensity = Claim Frequency
 
 📄 **Methodology & Analysis Explanation (PDF)**  
 [View PDF](https://github.com/LuxKarinthip/RoadAccident_GeospatialAanlysis/blob/main/ExplainMethodAnalysis.pdf)
 
-#Sample picture
-<img width="1243" height="600" alt="image" src="https://github.com/user-attachments/assets/0178a252-9393-4466-9923-73111d374c13" />
-<img width="1243" height="600" alt="image" src="https://github.com/user-attachments/assets/43df299a-1ffc-436d-8c86-742819758b84" />
+
+## Sample picture of this project
+
+<img width="1243" height="400" alt="image" src="https://github.com/user-attachments/assets/0178a252-9393-4466-9923-73111d374c13" />
+
+<img width="1243" height="400" alt="image" src="https://github.com/user-attachments/assets/43df299a-1ffc-436d-8c86-742819758b84" />
 
 
 
