@@ -1,4 +1,3 @@
-# Karinthip.github.io 
 Data analyst/ Data Scientist (Portfolio)
 
 # Project 1 #Road Accident Risk Analytics for Motor Insurance
