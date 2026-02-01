@@ -39,7 +39,8 @@ underwriting and risk prevention decisions.
 ## Tools
 Python, Pandas, GeoPandas, Folium, Google Maps API
 
-## Team size : 5 (Data analyst x 1 (Me) / Claim x 2 / Project Cooperation x 2) 
+## Team size : 5 
+(Data analyst x 1 (Me) / Claim x 2 / Project Cooperation x 2) 
 Karinthip Sribunrueang | Insurance & Data Analytics
 
 ## Area for geospatial analysis
